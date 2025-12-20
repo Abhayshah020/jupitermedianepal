@@ -125,7 +125,7 @@ export function Footer() {
         </div>
 
         <div className="pt-8 border-t border-border flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-muted-foreground">
-          <p>© 2025 Jupiter Media Nepal. All rights reserved.</p>
+          <a href="https://smsitsolutions.com.au/">© 2025 Powered by SMS IT Solutions. All rights reserved.</a>
           {/* <div className="flex gap-6">
             <a href="#" className="hover:text-foreground">
               Privacy Policy
